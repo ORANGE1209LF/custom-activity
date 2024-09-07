@@ -1,14 +1,14 @@
 # https://discord.com/developers/applications
-CLIENT_ID = 123
+CLIENT_ID = 1282070047098929173
 
 # Детали
-DETAILS = "Команда разработчиков Open-Source проектов"
-STATE = "me@shuoki.top"
-LARGE_IMAGE = "shuokiteam"
+DETAILS = "Сам тоже фембойчик)"
+STATE = "🧡"
+LARGE_IMAGE = "boykisser-meme-0000"
 BUTTON = [
     {
-        "label": "GitHub", #Название кнопки
-        "url": "https://github.com/Shuoki" #ссылка
+        "label": "🧡~My Steam~💜", #Название кнопки
+        "url": "https://steamcommunity.com/id/OrangeLoveFemboys/" #ссылка
     }#,
     #{ #Если нужно несколько кнопок
         #"label": "",
